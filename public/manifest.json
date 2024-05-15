@@ -1,0 +1,38 @@
+{
+    "manifest_version": 3,
+    "name": "Codify",
+    "version": "1.0",
+    "description": "",
+    "action": {
+        "default_popup": "popup/index.html"
+    },
+    "icons": {
+      "16": "codify_16.png",
+      "32": "codify_32.png",
+      "48": "codify_48.png",
+      "128": "codify_128.png"
+    },
+    "content_scripts":[{
+      "js": ["assets/content.js"],
+      "matches": ["https://*/*"]
+    }],
+    "background":{
+      "service_worker": "assets/background.js",
+      "type": "module"
+    },
+    "permissions": [
+      "scripting",
+      "tabs",
+      "activeTab",
+      "contextMenus",
+      "background",
+      "clipboardWrite",
+      "storage"
+    ],
+    "host_permissions": [
+      "https://*/*",
+      "http://*/*"
+    ]
+  }
+
+ 
