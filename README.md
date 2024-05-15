@@ -14,6 +14,14 @@ Streamline your development workflow with Codify, a Chrome extension designed to
 
 Enhance your coding efficiency today with Codify!
 
+## Screenshots
+
+![Codify Screenshot](https://media.discordapp.net/attachments/683899874034319360/1240429210334400613/Screenshot_2024-05-15_at_5.36.40_PM.png?ex=66468739&is=664535b9&hm=daca2e039c36bbbbfc727cdf0bfe50d0d1e0e55e4c78cd744151241391451d31&=&width=760&height=1022)
+
+![Codify Screenshot 2](https://media.discordapp.net/attachments/683899874034319360/1240429248674664488/Screenshot_2024-05-15_at_5.27.39_PM.png?ex=66468742&is=664535c2&hm=fc0e87c274e375154d40a6492b7c15bd0a159d042fced8a712851b807d36b234&=&width=1656&height=1124)
+
+
+
 ## Installation
 
 1. Clone the repository:
@@ -34,10 +42,8 @@ Enhance your coding efficiency today with Codify!
 - Obtain your Pastebin API key from [Pastebin's API documentation](https://pastebin.com/doc_api).
 - Save the API key in the `.env` file as `API_KEY`.
 
-5. Usage
-
-To build the project, run the following command:
-
+5. Run:
+     ```bash
     npm run build
 
 ## Technologies
@@ -58,7 +64,7 @@ Please fork the repository and submit pull requests with your changes.
 
 ## Support
 
-For support, feature requests, or bug reporting, please file an issue on the [GitHub issues page](https://github.com/yourusername/codify-chrome-extension/issues).
+For support, feature requests, or bug reporting, please file an issue on the [GitHub issues page](https://github.com/Romansth/codify-chrome-extension/issues).
 
 ## License
 
