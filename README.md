@@ -16,10 +16,7 @@ Enhance your coding efficiency today with Codify!
 
 ## Screenshots
 
-![Codify Screenshot](https://media.discordapp.net/attachments/683899874034319360/1240429210334400613/Screenshot_2024-05-15_at_5.36.40_PM.png?ex=66468739&is=664535b9&hm=daca2e039c36bbbbfc727cdf0bfe50d0d1e0e55e4c78cd744151241391451d31&=&width=760&height=1022)
-
-![Codify Screenshot 2](https://media.discordapp.net/attachments/683899874034319360/1240429248674664488/Screenshot_2024-05-15_at_5.27.39_PM.png?ex=66468742&is=664535c2&hm=fc0e87c274e375154d40a6492b7c15bd0a159d042fced8a712851b807d36b234&=&width=1656&height=1124)
-
+<img src="https://media.discordapp.net/attachments/683899874034319360/1240463086016528504/Screenshot_2024-05-15_at_8.37.07_PM.png?ex=6646a6c6&is=66455546&hm=47055bc984dd6f3da448826fc1374c7b59ed27dd2c707dec0bafd2b9a1a4c10a&=&width=892&height=1124" width="500px"/><img src="https://media.discordapp.net/attachments/683899874034319360/1240429248674664488/Screenshot_2024-05-15_at_5.27.39_PM.png?ex=66468742&is=664535c2&hm=fc0e87c274e375154d40a6492b7c15bd0a159d042fced8a712851b807d36b234&=&width=1656&height=1124" width="500px"/>
 
 
 ## Installation
