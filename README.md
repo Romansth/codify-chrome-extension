@@ -14,10 +14,9 @@ Streamline your development workflow with Codify, a Chrome extension designed to
 
 Enhance your coding efficiency today with Codify!
 
-## Screenshots
+<img src="https://media.discordapp.net/attachments/683899874034319360/1249806604606378025/codify_promo1.png?ex=6668a49a&is=6667531a&hm=ec8a86cccc61906c67c3247ac264f2db36c9357be303f660cbb7f2762aa6dddc&=&width=1798&height=1124" height=500px/>
 
-<img src="https://media.discordapp.net/attachments/683899874034319360/1240463086016528504/Screenshot_2024-05-15_at_8.37.07_PM.png?ex=6646a6c6&is=66455546&hm=47055bc984dd6f3da448826fc1374c7b59ed27dd2c707dec0bafd2b9a1a4c10a&=&width=892&height=1124" width="500px"/><img src="https://media.discordapp.net/attachments/683899874034319360/1240429248674664488/Screenshot_2024-05-15_at_5.27.39_PM.png?ex=66468742&is=664535c2&hm=fc0e87c274e375154d40a6492b7c15bd0a159d042fced8a712851b807d36b234&=&width=1656&height=1124" width="500px"/>
-
+https://github.com/Romansth/codify-chrome-extension/assets/53575561/1e44c3e0-043d-429c-be04-09d9ef1495cb
 
 ## Installation
 
